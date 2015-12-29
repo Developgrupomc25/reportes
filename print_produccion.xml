@@ -1,0 +1,14 @@
+<openerp>
+	<data>
+	
+	    <report auto="False"
+	     id="report_print_produccion"
+	     model="mrp.servicemc"
+	    name="mrp.report.print.produccion.webkit"
+	    file="mrp_servicemc/report/print_produccion.mako"
+	    string="Orden de Trabajo Producción"
+	    report_type="webkit"/>
+	    
+	</data>
+</openerp>
+

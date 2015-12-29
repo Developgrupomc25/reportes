@@ -1,0 +1,14 @@
+<openerp>
+	<data>
+	
+	    <report auto="False"
+	     id="report_print_recepcion"
+	     model="mrp.servicemc"
+	    name="mrp.report.print.recepcion.webkit"
+	    file="mrp_servicemc/report/print_recepcion.mako"
+	    string="Recepción"
+	    report_type="webkit"/>
+	    
+	</data>
+</openerp>
+

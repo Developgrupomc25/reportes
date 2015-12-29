@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+    <report
+        id="servicemc_order"
+        string="Report Quotation / Order"
+        model="mrp.servicemc"
+        name="servicemc.order"
+        rml="mrp_servicemc/report/print_order.rml"
+        auto="False"/>
+    </data>
+</openerp>
